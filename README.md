@@ -1,8 +1,11 @@
 Hello there 👋
-A second year university student currently studying in NED University of Engineering and Technology. I'm currently preparing DSA (Data Structures and Algorithms) and hope to start with DLD (Digital Logic Design) so that it helps me further on in my graduation.
+**I'm a second year university student currently studying in NED University of Engineering and Technology.**
+What I am up to:
+**Currently**: DSA (Data Structures and Algorithms)  
+**Next**: (Digital Logic Design) 
+**Goal**: Using my knowledge to further my engineering projects
 
-Wish you a great day 💝
+Connect with me,
+**Email**: hamza27112007@gmail.com
 
-Here are my socials,
-Email: hamza27112007@gmail.com
-
+Thanks for stopping bye and Wish you a great day 💝
